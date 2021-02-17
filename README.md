@@ -1,1 +1,3 @@
-# calculator
+# Calculator 
+
+This a simple calculator project
